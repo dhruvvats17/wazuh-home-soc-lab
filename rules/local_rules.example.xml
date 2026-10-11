@@ -1,0 +1,9 @@
+<!--
+SAFE TEMPLATE ONLY — NOT A READY-TO-DEPLOY DETECTION.
+Replace the example ID with an unused local ID and write a rule only after
+confirming the real event decoder and fields for your Wazuh version.
+Validate syntax and test both matching and non-matching events.
+-->
+<group name="local,lab,">
+  <!-- Add a reviewed rule here only after collecting a representative event. -->
+</group>
